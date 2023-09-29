@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: 博客"
+    url: https://suntrise.github.io/
+  - title: "关于"
+  #   url: https://suntrise.github.io/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

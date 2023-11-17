@@ -2,10 +2,10 @@
 main:
   - title: "博客"
     url: https://suntrise.github.io/blogs.html
+  - title: "存档"
+    url: /year-archive/
   - title: "关于"
-  #   url: https://suntrise.github.io
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: https://suntrise.github.io
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

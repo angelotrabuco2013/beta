@@ -27,7 +27,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/40x40.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs               : true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -114,12 +114,12 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "str5180@outlook.com"
     - label: "Bilibili"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-bilibili-square"
       url: "https://space.bilibili.com/451475014"
     - label: "知乎"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-zhihu-square"
       url: "https://www.zhihu.com/people/suntrise"
-    - label: "Twitter"
+    - label: "X(Twitter)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/StringNeko"
     - label: "Facebook"

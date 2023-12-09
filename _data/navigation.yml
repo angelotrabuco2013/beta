@@ -3,7 +3,7 @@ main:
   - title: "博客"
     url: https://suntrise.github.io/posts
   - title: "标签"
-    url: https://suntrise.github.io/posts
+    url: https://suntrise.github.io/tags
   - title: "关于"
     url: https://suntrise.github.io
   - title: "友情链接"

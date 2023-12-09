@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "str5180@outlook.com"
+      # url: "str5180@outlook.com"
     - label: "Bilibili"
       icon: "fas fa-fw fa-bilibili-square"
       url: "https://space.bilibili.com/451475014"

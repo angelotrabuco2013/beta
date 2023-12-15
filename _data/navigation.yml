@@ -2,7 +2,7 @@
 main:
   - title: "博客"
     url: https://suntrise.github.io/posts
-  - title: "标签"
+  - title: "分类"
     url: https://suntrise.github.io/tags
   - title: "关于"
     url: https://suntrise.github.io/about

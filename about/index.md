@@ -5,9 +5,8 @@ title: 关于
 breadcrumbs: false
 ---
 
-Suntrise(STR)
-
-一个普通的高中学生啦~
+## 🏠 关于本站？
+Suntrise(简称 STR)的小站啦
 
 ## 🎨 兴趣爱好？
 算广泛吧，历史，计算机，设计、语言、……

@@ -4,6 +4,7 @@ author_profile: true
 title: 关于
 breadcrumbs: false
 ---
+<div style="font-size:16px">
 ## 🏠 关于本站？
 Suntrise(简称 STR)的小站啦
 
@@ -12,5 +13,7 @@ Suntrise(简称 STR)的小站啦
 
 ## 📬 联系方式？
 不是都写在侧边栏上了喵qwq~
+
+</div>
 
 

@@ -14,7 +14,8 @@ Suntrise(简称 STR)的小站啦
 不是都写在侧边栏上了喵qwq~
 
 ## 其他想说的话？
-{{μ's M.U.S.I.C START!}}
-** μ'sic forever! **
+**μ's M.U.S.I.C START!**
+
+**μ'sic forever!**
 
 

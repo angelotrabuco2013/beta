@@ -17,7 +17,8 @@ Suntrise(简称 STR)的小站啦
 **μ's Music S.T.A.R.T!!**
 
 **μ'sic forever!!**
-![μ’s full 2700727_heng](https://github.com/suntrise/suntrise.github.io/assets/89229642/8d738fb5-65ce-4b13-a1af-78090ffd4138)
+![keyv2](https://github.com/suntrise/suntrise.github.io/assets/89229642/652f9d4e-a268-4e34-90dd-c558e877e205)
+
 
 
 

@@ -17,7 +17,9 @@ Suntrise(简称 STR)的小站啦
 **μ's Music S.T.A.R.T!!**
 
 **μ'sic forever!!**
-![keyv2](https://github.com/suntrise/suntrise.github.io/assets/89229642/652f9d4e-a268-4e34-90dd-c558e877e205)
+
+![Uploading keyv9.png…]()
+
 
 
 

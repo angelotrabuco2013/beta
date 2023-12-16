@@ -4,7 +4,6 @@ author_profile: true
 title: 关于
 breadcrumbs: false
 ---
-
 ## 🏠 关于本站？
 Suntrise(简称 STR)的小站啦
 

@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "str5180@outlook.com"
     - label: "Bilibili"
-      icon: "fas fa-fw fa-play"
+      icon: "fas fa-fw fa-file-video"
       url: "https://space.bilibili.com/451475014"
     - label: "知乎"
       icon: "fas fa-fw fa-globe"

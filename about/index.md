@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 title: 关于
-breadcrumbs: false
+breadcrumbs: true
 ---
 ## 🏠 关于本站？
 Suntrise(简称 STR)的小站啦

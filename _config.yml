@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Suntrise(STR)"
-  avatar           : "/assets/images/Avatar.jpg"
-  bio              : "一个普通的高中学生"
-  location         : "未知"
-  email            : str5180@outlook.com
+  name             : "AST"
+  avatar           : "/assets/images/Avatar.svg"
+  bio              : "Doing random stuff since 2013"
+  location         : "Pindorama, São Paulo, Brazil"
+  email            : angelotrabuco2013@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
